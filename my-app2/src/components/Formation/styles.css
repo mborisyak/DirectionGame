@@ -1,0 +1,7 @@
+.row {
+}
+
+.formation {
+    display: flex;
+    align-items: center;
+}
